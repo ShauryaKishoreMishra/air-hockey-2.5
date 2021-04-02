@@ -1,1 +1,1 @@
-# air-hockey-2.5
+Stage 2.
